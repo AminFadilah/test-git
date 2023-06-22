@@ -3,5 +3,9 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Hello, Amin");
         System.out.println("Hello, Fadilah");
+        System.out.println("Hello, Amin");
+        System.out.println("Hello, Amin");
+        System.out.println("Hello, Amin");
+        System.out.println("Hello, Amin");
     }
 }
