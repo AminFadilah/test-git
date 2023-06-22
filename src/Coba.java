@@ -4,6 +4,8 @@ public class{
         
     }
         public int pengurangan(int a, int b){
+    }
+    public int pengurangan(int a, int b){
         return a-b;
     }
 }
